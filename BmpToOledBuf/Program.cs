@@ -1,5 +1,5 @@
 ﻿/*
- * Project          : BmpToOledData
+ * Project          : BmpToOledBuf
  * File             : Program.cs
  * Version          : 1.0
  * Author           : Alexander Glushanenko
@@ -19,7 +19,7 @@ namespace BmpToOledBuf
     {
         static void Main()
         {
-            Console.WriteLine("BmpToOledData v1.0\n");
+            Console.WriteLine("BmpToOledBuf v1.0\n");
             Console.Write("Enter BMP file name:");
             string filename = Console.ReadLine();
 
