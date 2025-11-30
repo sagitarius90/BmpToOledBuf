@@ -1,0 +1,8 @@
+
+*.spl7
+*.psd
+
+# Visual Studio
+.vs/
+**/[Bb]in/*
+[Oo]bj/
